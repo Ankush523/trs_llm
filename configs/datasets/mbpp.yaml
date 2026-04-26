@@ -1,0 +1,8 @@
+{
+  "name": "mbpp",
+  "task_type": "coding",
+  "source_format": "jsonl",
+  "split_seed": 42,
+  "train_ratio": 0.8,
+  "holdout_ratio": 0.2
+}

@@ -1,0 +1,8 @@
+{
+  "name": "math_hendrycks",
+  "task_type": "math",
+  "source_format": "jsonl",
+  "split_seed": 42,
+  "train_ratio": 0.8,
+  "holdout_ratio": 0.2
+}

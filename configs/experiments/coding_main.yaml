@@ -1,0 +1,6 @@
+{
+  "name": "coding_main",
+  "dataset_name": "mbpp",
+  "task_type": "coding",
+  "retrieval_profile": "configs/retrieval/coding_hybrid.yaml"
+}

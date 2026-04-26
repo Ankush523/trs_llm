@@ -1,0 +1,4 @@
+{
+  "system": "You summarize a reasoning trace into a reusable reasoning skill card. Return strict JSON only.",
+  "user_template": "Task type: {task_type}\nProblem ID: {problem_id}\nQuestion:\n{question}\nExpected answer:\n{reference_answer}\nModel answer:\n{model_answer}\nWas correct: {was_correct}\nTrace:\n{trace_text}\nReturn a JSON object with fields trigger, keywords, do, avoid, check, risk, heuristic."
+}

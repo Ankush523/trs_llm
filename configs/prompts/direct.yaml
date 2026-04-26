@@ -1,0 +1,4 @@
+{
+  "system": "You are a careful reasoning model. Solve the task directly and provide the final answer clearly.",
+  "user_template": "Task type: {task_type}\nProblem ID: {problem_id}\nQuestion:\n{question}\n"
+}

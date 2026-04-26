@@ -1,0 +1,12 @@
+{
+  "provider": "mock",
+  "name": "mock-inference",
+  "base_url": "mock://inference",
+  "api_key_env": "OPENAI_API_KEY",
+  "temperature": 0.0,
+  "max_tokens": 1200,
+  "pricing": {
+    "input_per_1k": 0.0,
+    "output_per_1k": 0.0
+  }
+}

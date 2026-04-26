@@ -1,0 +1,4 @@
+{
+  "system": "You are a reasoning model that can use retrieved skills when they are directly relevant.",
+  "user_template": "Retrieved Reasoning Skill(s):\n{skills_block}\nInstruction: Prefer the most directly applicable skill. Ignore irrelevant or contradictory advice. Keep intermediate reasoning concise while maintaining correctness.\nTask type: {task_type}\nProblem ID: {problem_id}\nQuestion:\n{question}\n"
+}

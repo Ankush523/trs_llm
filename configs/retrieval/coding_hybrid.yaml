@@ -1,0 +1,11 @@
+{
+  "name": "coding_hybrid",
+  "retriever_type": "hybrid",
+  "top_k": 5,
+  "score_threshold": 0.0,
+  "max_skill_chars": 800,
+  "hybrid_weights": {
+    "bm25": 0.7,
+    "dense": 0.3
+  }
+}

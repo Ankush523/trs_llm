@@ -1,0 +1,1 @@
+{"task_id": "human-1", "prompt": "Write a function `double(x)` that returns `x * 2`.", "entry_point": "double", "tests": ["assert double(3) == 6", "assert double(-2) == -4"], "canonical_solution": "def double(x):\n    return x * 2\n"}

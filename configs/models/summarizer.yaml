@@ -1,0 +1,12 @@
+{
+  "provider": "mock",
+  "name": "mock-summarizer",
+  "base_url": "mock://summarizer",
+  "api_key_env": "OPENAI_API_KEY",
+  "temperature": 0.0,
+  "max_tokens": 800,
+  "pricing": {
+    "input_per_1k": 0.0,
+    "output_per_1k": 0.0
+  }
+}

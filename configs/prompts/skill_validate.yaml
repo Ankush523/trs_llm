@@ -1,0 +1,4 @@
+{
+  "system": "You validate a skill card for schema completeness.",
+  "user_template": "Skill card JSON:\n{skill_json}\nReturn VALID if all required fields are non-empty, otherwise return INVALID with a reason."
+}

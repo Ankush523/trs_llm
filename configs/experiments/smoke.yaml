@@ -1,0 +1,7 @@
+{
+  "name": "smoke",
+  "math_dataset_file": "data/processed/smoke_math.jsonl",
+  "coding_dataset_file": "data/processed/smoke_mbpp.jsonl",
+  "math_library_dir": "artifacts/indexes/smoke_math_library",
+  "coding_library_dir": "artifacts/indexes/smoke_coding_library"
+}

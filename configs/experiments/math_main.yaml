@@ -1,0 +1,6 @@
+{
+  "name": "math_main",
+  "dataset_name": "math_hendrycks",
+  "task_type": "math",
+  "retrieval_profile": "configs/retrieval/math_bm25.yaml"
+}
